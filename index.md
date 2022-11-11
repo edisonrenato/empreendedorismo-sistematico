@@ -11,3 +11,4 @@ And this is text
 Table | Elements
 ---|---
 1|2
+3|4
